@@ -106,7 +106,6 @@ The experiment explores:
 * Weights and biases
 * Energy calculation
 * Sigmoid probability
-* Positive and negative phases
 * Weight updates
 * Energy-based learning
 
